@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    advent_of_code_cli (0.1.2)
+      thor (>= 1.2.0)
+    thor (1.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  advent_of_code_cli
+
+RUBY VERSION
+   ruby 2.6.10p210
+
+BUNDLED WITH
+   1.17.2
