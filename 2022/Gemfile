@@ -3,3 +3,8 @@ source "https://rubygems.org"
 ruby ">= 2.6.10"
 
 gem "advent_of_code_cli"
+gem "pry"
+
+gem "matrix", "~> 0.4.2"
+
+gem "parallel"

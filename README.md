@@ -1,4 +1,4 @@
-# 🎄 Advent of Code Solutinos
+# 🎄 Advent of Code Solutions
 
 Utilizes [advent_of_code_cli](https://github.com/egiurleo/advent_of_code_cli) to quickly scaffold solutions in Ruby.
 
